@@ -1566,7 +1566,7 @@ header .sound .equalizer .holder {
     font-weight: 800;
     font-size: 60px;
     line-height: 1.2;
-    padding-right: 35%;
+    /*padding-right: 35%;*/
 }
 
 .intro h2:before {

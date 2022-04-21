@@ -18,12 +18,10 @@
             <div class="tagline"><span></span>
                 <h6>Refactoring the Future</h6>
             </div>
-            <!-- end tagline -->
             <h1>Emanate<br>
                 <span>Software</span></h1>
-            <div class="slide-btn"><a href="#">
+            <div class="slide-btn"><a href="emanate.php">
                     <div class="lines"><span></span> <span></span></div>
-                    <!-- end lines -->
                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                          x="0px"
                          y="0px"
@@ -31,62 +29,55 @@
                 <circle class="video-play-circle" fill="none" stroke="#fff" stroke-width="2" stroke-miterlimit="1"
                         cx="52" cy="52" r="50"/>
               </svg>
-                    <b>VIEW PROJECT</b> </a></div>
-            <!-- end slide-btn -->
+                    <b>ABOUT US</b>
+                </a>
+            </div>
         </div>
-        <!-- end container -->
     </div>
-    <!-- end particles-wrap -->
 </header>
 
-<!-- end header -->
 <section class="intro">
     <div class="container">
         <div class="row">
             <div class="col-12 wow fadeIn">
-                <h6 class="text-uppercase">We are Emanate Software</h6>
-                <h2 data-text="Digital"> A Digital Agency Built For You.</h2>
+                <h6 class="text-uppercase">Who are we?</h6>
+                <h2 data-text="Digital">We are a team of Software Developers & IT Consultants.</h2>
             </div>
-            <!-- end col-12 -->
             <div class="col-lg-5 wow fadeIn">
-                <h4>We aren't your ordinary software agency.</h4>
+                <h4>We aren't an <span style="text-decoration: line-through">ordinary</span> start up.</h4>
             </div>
-            <!-- end col-5 -->
             <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
-                <!--                <p>Thanks to our experience and expertise, we were entrusted with the development of a new website for-->
-                <!--                    <u>Araxia</u>’s capital city, Riyadh, in collaboration with a well-recognized local agency.</p>-->
-                <!--                <p>Design very few <strong>companies</strong> in the world have ventured on a project of such tremendous-->
-                <!--                    scope and complex</p>-->
+                <p>
+                    Using modern Web Technologies, <u>Emanate Software</u> can guarantee to turn your idea into reality.
+                </p>
 
-                <p>Emanate Software is entirely <u>digital</u>. We've helped people like you design, build, and ship
-                    badass
-                    products and services. </p>
-
-                <p>We leverage innovative approaches and game-changing technologies to get
-                    products and services to market quickly, creating stunning web experiences, beginning with deep
-                    requirements' analysis, practical strategies, and professional execution.</p>
-                <div class="custom-link wow fadeIn"><a href="#">
-                        <div class="lines"><span></span> <span></span></div>
-                        <!-- end lines -->
-                        <b>LEARN MORE</b></a></div>
-                <!-- end custom-link -->
+                <p>
+                    From beautiful and engaging <strong>Websites</strong>, <strong>Web Applications</strong> to <strong>IT
+                        Consultation</strong> we are honored to work with SME's to Big Organization to help them design,
+                    build, and ship badass products and services to reach their targeted audiences or simplify their
+                    daily business operations.</p>
+                <div class="custom-link wow fadeIn">
+                    <a href="works.php">
+                        <div class="lines">
+                            <span></span>
+                            <span></span>
+                        </div>
+                        <b>VIEW WORKS</b>
+                    </a>
+                </div>
             </div>
-            <!-- end col-7 -->
         </div>
-        <!-- end row -->
     </div>
-    <!-- end container -->
 </section>
-<!-- end intro -->
+
 <section class="services-content-block">
     <div class="video-bg">
         <video src="videos/video.mp4" muted loop autoplay></video>
     </div>
-    <!-- end video-bg -->
     <div class="container">
         <div class="row">
             <div class="col-12 wow fadeIn">
-                <h6>Redefining Benchmarks</h6>
+                <h6>WHAT CAN WE OFFER YOU?</h6>
                 <h2>We have the technical expertise in </h2>
             </div>
             <!-- end col-12 -->

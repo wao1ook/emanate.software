@@ -1,8 +1,7 @@
 <aside class="left-side">
     <ul>
-        <li><a href="#">EMAIL</a></li>
-        <li><a href="#">GITHUB</a></li>
-        <li><a href="#">CALL US</a></li>
+        <li><a href="mailto:hello@emanate.software">EMAIL US</a></li>
+        <li><a href="tel:+255656791558">CALL US</a></li>
     </ul>
 </aside>
 <div class="scroll-down"><small>SCROLL DOWN</small><span></span></div>
