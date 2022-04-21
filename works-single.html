@@ -79,7 +79,7 @@
       <li><a href="works.html">WORKS</a></li>
       <li><a href="brabus.html">BRABUS</a></li>
       <li><a href="news.html">NEWS</a></li>
-      <li><a href="hello.html">HELLO</a></li>
+      <li><a href="hello.php">HELLO</a></li>
     </ul>
     </div>
     <!-- end menu -->
