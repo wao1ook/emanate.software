@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <address>Dar es Salaam – Tanzania</address>
+                    <address>Dar es Salaam, Tanzania</address>
                 </div>
                 <div class="col-md-4">
                     <address>+255 656 791 558<br>+255 766 130 227</address>

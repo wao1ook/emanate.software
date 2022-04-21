@@ -29,7 +29,7 @@
             <div class="col-md-4 wow fadeIn">
                 <address>
                     <b>Address</b>
-                    <p>Appointments Only!</p>
+                    <p>Dae es Salaam, Tanzania</p>
                 </address>
             </div>
             <div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
