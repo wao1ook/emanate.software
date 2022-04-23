@@ -137,15 +137,15 @@
 
                 <div class="project-box wow fadeIn" data-bg="#faf8ed">
                     <figure>
-                        <a href="images/featured01.jpg" data-fancybox>
-                            <img src="images/featured01.jpg" alt="Emanate Software">
+                        <a href="images/trendy-media-1.jpg" data-fancybox>
+                            <img src="images/trendy-media-1.jpg" alt="Emanate Software">
                         </a>
                     </figure>
                     <div class="content-box">
                         <div class="inner"><small>WEBSITE DESIGNING, DEVELOPMENT AND MAINTENANCE</small>
                             <h3><span>Trendy </span>Media</h3>
                             <div class="custom-link">
-                                <a href="works-single.html">
+                                <a href="betheli.php">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>
@@ -160,7 +160,7 @@
                 <div class="project-box wow fadeIn" data-bg="#ece6f4">
                     <figure>
                         <a href="images/featured02.jpg" data-fancybox>
-                            <img src="images/featured02.jpg" alt="Emanate Software">
+                            <img src="images/nmb-mkononi.jpg" alt="Emanate Software">
                         </a>
                     </figure>
                     <div class="content-box">
@@ -168,7 +168,7 @@
                             <small>SYSTEM DEVELOPMENT, HOSTING & MAINTENANCE</small>
                             <h3><span>Mvano</span>Pharmacy</h3>
                             <div class="custom-link">
-                                <a href="works-single.html">
+                                <a href="betheli.php">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>
@@ -191,7 +191,7 @@
                             <small>WEBSITE DEVELOPMENT & HOSTING</small>
                             <h3><span>Authentic</span>Motors</h3>
                             <div class="custom-link">
-                                <a href="works-single.html">
+                                <a href="betheli.php">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>
@@ -212,9 +212,9 @@
                     <div class="content-box">
                         <div class="inner">
                             <small>OUR PERSONAL PRODUCT</small>
-                            <h3><span>Betheli</span>App</h3>
+                            <h3><span>Betheli</span>Database</h3>
                             <div class="custom-link">
-                                <a href="works-single.html">
+                                <a href="betheli.php">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>

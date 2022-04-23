@@ -150,7 +150,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Karamel</span>Coffee</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -166,7 +166,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Female</span>Purples</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -182,7 +182,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Redness</span>Socks</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -198,7 +198,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Hairling</span>Glass</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -214,7 +214,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Bebishka</span>Babies</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -230,7 +230,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Cleaning</span>Bathys</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -246,7 +246,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Relaxing</span>Bluesis</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -262,7 +262,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Speculos</span>Cookies</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
@@ -278,7 +278,7 @@
           <div class="content-box">
             <div class="inner"> <small>AMAZING USER INTERFACE & SMOOTH INTERACTION</small>
               <h3><span>Clonney</span>Colors</h3>
-              <div class="custom-link"> <a href="works-single.html">
+              <div class="custom-link"> <a href="betheli.php">
                 <div class="lines"> <span></span> <span></span> </div>
                 <!-- end lines --> 
                 <b>LEARN MORE</b></a> </div>
