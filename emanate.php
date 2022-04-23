@@ -393,36 +393,40 @@
 </section>
 <!-- end awards -->
 <section class="clients">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-5 wow fadeIn">
-        <h6>START WORKING WITH US</h6>
-        <h2>Our clients</h2>
-        <h4>Do you have a project opportunity, or are you just a looking to get creative solutions?</h4>
-        <div class="custom-link wow fadeIn"> <a href="#">
-          <div class="lines"> <span></span> <span></span> </div>
-          <!-- end lines --> 
-          <b>BE OUR CLIENT</b></a> </div>
-        <!-- end custom-link --> 
-      </div>
-      <!-- end col-4 -->
-      <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
-        <ul>
-          <li><img src="images/logo01.png" alt="Image"><small>ABSTER</small></li>
-          <li><img src="images/logo02.png" alt="Image"><small>LOKOMOTIVE</small></li>
-          <li><img src="images/logo03.png" alt="Image"><small>BIRDIEST</small></li>
-          <li><img src="images/logo04.png" alt="Image"><small>PLOCSHA</small></li>
-          <li><img src="images/logo05.png" alt="Image"><small>NEWKY</small></li>
-          <li><img src="images/logo06.png" alt="Image"><small>HACHAPURY</small></li>
-          <li><img src="images/logo02.png" alt="Image"><small>LOKOMOTIVE</small></li>
-          <li><img src="images/logo05.png" alt="Image"><small>NEWKY</small></li>
-        </ul>
-      </div>
-      <!-- end col-7 --> 
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 wow fadeIn">
+                <h6>START WORKING WITH US</h6>
+                <h2>Our clients</h2>
+                <h4>We collaborate with companies: from small to large, helping them engage their audiences and build
+                    exciting projects.</h4>
+                <div class="custom-link wow fadeIn">
+                    <a href="#">
+                        <div class="lines">
+                            <span></span> <span></span>
+                        </div>
+                        <b>BE OUR CLIENT</b>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-12 wow fadeIn" data-wow-delay="0.10s">
+                <ul>
+                    <li><img src="images/logo01.png" alt="Emanate Software"><small>AUTHENTIC MOTORS</small></li>
+                    <li><img src="images/jjacl.jpg" alt="Emanate Software"><small>J&J AGRICULTURAL</small></li>
+                    <li><img src="images/heyz.png" alt="Emanate Software"><small>HEY'Z INVESTMENT</small></li>
+                    <li><img src="images/favour.jpg" alt="Emanate Software"><small>FAVOUR</small></li>
+                    <li><img src="images/bwana-alizeti@3x.jpg" alt="Emanate Software"><small>BWANA ALIZETI</small></li>
+                    <li><img src="images/trendy-media@3x.jpg" alt="Emanate Software"><small>TRENDY MEDIA</small></li>
+                    <li><img src="images/taned.jpg" alt="Emanate Software"><small>TANED</small></li>
+                    <li><img src="images/prosX.jpg" alt="Emanate Software"><small>PROSX</small></li>
+                </ul>
+            </div>
+            <!-- end col-7 -->
+        </div>
+        <!-- end row -->
     </div>
-    <!-- end row --> 
-  </div>
-  <!-- end container --> 
+    <!-- end container -->
 </section>
 <!-- end clients -->
 <footer class="footer">

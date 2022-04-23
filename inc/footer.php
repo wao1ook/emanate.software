@@ -2,8 +2,8 @@
     <div class="footer-quote wow fadeIn">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8"><img src="images/logo.png" alt="Image">
-                    <h2><span style="text-decoration: line-through">Build</span> Launch your project with us today</h2>
+                <div class="col-lg-9"><img src="../images/logo.png" alt="Emanate Software">
+                    <h2>Design, develop and ship your <span style="text-decoration: line-through">idea</span> project with us today</h2>
                 </div>
             </div>
         </div>
