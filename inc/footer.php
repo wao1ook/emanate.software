@@ -29,9 +29,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    <h5>Connect with us </h5>
+<!--                    <h5>Connect with us </h5>-->
                     <ul>
-                        <li><a href="https://github.com/wao1ook">Github</a></li>
+                        <li>All</li>
                     </ul>
                 </div>
             </div>

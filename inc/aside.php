@@ -2,6 +2,7 @@
     <ul>
         <li><a href="mailto:hello@emanate.software">EMAIL US</a></li>
         <li><a href="tel:+255656791558">CALL US</a></li>
+        <li><a href="https://github.com/wao1ook">GITHUB</a></li>
     </ul>
 </aside>
 <div class="scroll-down"><small>SCROLL DOWN</small><span></span></div>

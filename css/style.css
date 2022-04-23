@@ -2040,15 +2040,14 @@ s .process span:before {
 }
 
 .team figure figcaption small {
-    opacity: 0.6;
-    font-size: 11px;
+    font-size: 14px;
     display: block;
     margin-bottom: 5px;
 }
 
 .team figure figcaption h4 {
     font-family: "Fjalla One", sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     text-transform: uppercase;
     margin-bottom: 0;
 }

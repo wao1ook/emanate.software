@@ -3,10 +3,11 @@
     <div class="inner" data-tilt data-tilt-perspective="2000">
         <div class="menu">
             <ul>
-                <li><a href="../index.php">Home</a></li>
-                <li><a href="../emanate.php">Emanate</a></li>
-                <li><a href="../works.php">Works</a></li>
-                <li><a href="../hello.php">Contact Us</a></li>
+                <li><a href="../emanate.php">Who are we?</a></li>
+                <li><a href="#">What do we offer?</a></li>
+                <li><a href="../works.php">Previous Works</a></li>
+                <li><a href="#">Whom we worked with?</a></li>
+                <li><a href="../hello.php">Get in touch</a></li>
             </ul>
         </div>
         <blockquote>Let's turn your idea into a reality</blockquote>
@@ -14,12 +15,11 @@
 </div>
 
 <nav class="navbar">
-    <div class="left"><a href="../hello.php">REACH US</a></div>
+    <div class="left"><a href="../index.php">HOME</a></div>
     <div class="logo"><a href="../index.php"><img src="../images/logo.png" alt="Emanate Software"></a></div>
     <div class="right">
         <ul class="language">
-            <li><a href="#">EN</a></li>
-            <li><a href="#">RU</a></li>
+            <li><a href="../hello.php">GET IN TOUCH</a></li>
         </ul>
         <div class="hamburger-menu"><b>MENU</b>
             <div class="hamburger" id="hamburger-menu">

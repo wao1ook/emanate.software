@@ -36,39 +36,7 @@
     </div>
 </header>
 
-<section class="intro">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 wow fadeIn">
-                <h6 class="text-uppercase">Who are we?</h6>
-                <h2 data-text="Digital">We are a team of Software Developers, & Consultants.</h2>
-            </div>
-            <div class="col-lg-5 wow fadeIn">
-                <h4>We aren't an <span style="text-decoration: line-through">ordinary</span> start up.</h4>
-            </div>
-            <div class="col-lg-7 wow fadeIn" data-wow-delay="0.10s">
-                <p>
-                    Using modern Web Technologies, <u>Emanate Software</u> can guarantee to turn your idea into reality.
-                </p>
-
-                <p>
-                    From beautiful and engaging <strong>Websites</strong>, <strong>Web Applications</strong> to <strong>
-                        Consultations</strong> we are honored to work with SME's to Big Organizations to help them
-                    design, build, and ship badass products and services to reach their targeted audiences or simplify
-                    their daily business operations.</p>
-                <div class="custom-link wow fadeIn">
-                    <a href="works.php">
-                        <div class="lines">
-                            <span></span>
-                            <span></span>
-                        </div>
-                        <b>VIEW WORKS</b>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<?php include 'inc/about-us.php' ?>
 
 <section class="services-content-block">
     <div class="video-bg">
@@ -134,11 +102,10 @@
                 <h2 data-text="Works">Our latest works and showcases</h2>
             </div>
             <div class="col-12">
-
                 <div class="project-box wow fadeIn" data-bg="#faf8ed">
                     <figure>
-                        <a href="images/trendy-media-1.jpg" data-fancybox>
-                            <img src="images/trendy-media-1.jpg" alt="Emanate Software">
+                        <a href="images/10.jpg" data-fancybox>
+                            <img src="images/10.jpg" alt="Emanate Software">
                         </a>
                     </figure>
                     <div class="content-box">
@@ -159,13 +126,13 @@
 
                 <div class="project-box wow fadeIn" data-bg="#ece6f4">
                     <figure>
-                        <a href="images/featured02.jpg" data-fancybox>
-                            <img src="images/nmb-mkononi.jpg" alt="Emanate Software">
+                        <a href="images/Mvano%20Pharmacy%20Mockup.jpg" data-fancybox>
+                            <img src="images/Mvano%20Pharmacy%20Mockup.jpg" alt="Emanate Software">
                         </a>
                     </figure>
                     <div class="content-box">
                         <div class="inner">
-                            <small>SYSTEM DEVELOPMENT, HOSTING & MAINTENANCE</small>
+                            <small>POS - SYSTEM DEVELOPMENT, HOSTING & MAINTENANCE</small>
                             <h3><span>Mvano</span>Pharmacy</h3>
                             <div class="custom-link">
                                 <a href="betheli.php">
@@ -203,7 +170,7 @@
                     </div>
                 </div>
 
-                <div class="project-box wow fadeIn" data-bg="#ebf8f3">
+                <div class="project-box wow fadeIn" data-bg="#f1dad6">
                     <figure>
                         <a href="images/featured03.jpg" data-fancybox>
                             <img src="images/featured03.jpg" alt="Emanate Software">
