@@ -135,7 +135,7 @@
                             <small>POS - SYSTEM DEVELOPMENT, HOSTING & MAINTENANCE</small>
                             <h3><span>Mvano</span>Pharmacy</h3>
                             <div class="custom-link">
-                                <a href="betheli.php">
+                                <a href="mvano-pharmacy.php">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>

@@ -3,7 +3,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-9"><img src="../images/logo.png" alt="Emanate Software">
-                    <h2>Design, develop and ship your <span style="text-decoration: line-through">idea</span> project with us today</h2>
+                    <h2>Design, develop and ship your <span style="text-decoration: line-through">idea</span> project
+                        with us today</h2>
                 </div>
             </div>
         </div>
@@ -29,9 +30,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-<!--                    <h5>Connect with us </h5>-->
                     <ul>
-                        <li>All</li>
+                        <li> &copy; Emanate Software <?php echo date('Y') ?>, All right reserved.</li>
                     </ul>
                 </div>
             </div>
