@@ -48,7 +48,7 @@
 
         <div class="row align-items-center">
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.05s">
-                <form class="row inner" id="contact" name="contact" method="post">
+                <form class="row inner" id="contact" name="contact" method="post" action="process.php">
                     <div class="form-group col-sm-6 col-12">
                         <label for="first_name"><span>First Name</span></label>
                         <input type="text" name="first_name" id="first_name" required>
