@@ -40,7 +40,7 @@
 
 <section class="services-content-block">
     <div class="video-bg">
-        <video src="videos/video.mp4" muted loop autoplay></video>
+        <img src="images/hello.jpg" alt="Emanate Software">
     </div>
     <div class="container">
         <div class="row">
@@ -112,7 +112,7 @@
                         <div class="inner"><small>WEBSITE DESIGNING, DEVELOPMENT AND MAINTENANCE</small>
                             <h3><span>Trendy </span>Media</h3>
                             <div class="custom-link">
-                                <a href="betheli.php">
+                                <a href="#">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>
@@ -135,7 +135,7 @@
                             <small>POS - SYSTEM DEVELOPMENT, HOSTING & MAINTENANCE</small>
                             <h3><span>Mvano</span>Pharmacy</h3>
                             <div class="custom-link">
-                                <a href="mvano-pharmacy.php">
+                                <a href="#">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>
@@ -149,8 +149,8 @@
 
                 <div class="project-box wow fadeIn" data-bg="#ebf8f3">
                     <figure>
-                        <a href="images/featured03.jpg" data-fancybox>
-                            <img src="images/featured03.jpg" alt="Emanate Software">
+                        <a href="images/10.jpg" data-fancybox>
+                            <img src="images/10.jpg" alt="Emanate Software">
                         </a>
                     </figure>
                     <div class="content-box">
@@ -158,7 +158,7 @@
                             <small>WEBSITE DEVELOPMENT & HOSTING</small>
                             <h3><span>Authentic</span>Motors</h3>
                             <div class="custom-link">
-                                <a href="betheli.php">
+                                <a href="#">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>
@@ -172,8 +172,8 @@
 
                 <div class="project-box wow fadeIn" data-bg="#f1dad6">
                     <figure>
-                        <a href="images/featured03.jpg" data-fancybox>
-                            <img src="images/featured03.jpg" alt="Emanate Software">
+                        <a href="images/10.jpg" data-fancybox>
+                            <img src="images/10.jpg" alt="Emanate Software">
                         </a>
                     </figure>
                     <div class="content-box">
@@ -181,7 +181,7 @@
                             <small>OUR PERSONAL PRODUCT</small>
                             <h3><span>Betheli</span>Database</h3>
                             <div class="custom-link">
-                                <a href="betheli.php">
+                                <a href="#">
                                     <div class="lines">
                                         <span></span>
                                         <span></span>

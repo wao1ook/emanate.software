@@ -10,7 +10,7 @@
 
 <header class="page-header">
     <div class="video-bg">
-        <video src="videos/video2.mp4" muted loop autoplay></video>
+        <img src="images/hello.jpg" alt="Emanate Software">
     </div>
     <div class="container">
         <h1>Howdy</h1>

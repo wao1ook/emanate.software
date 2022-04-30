@@ -14,13 +14,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <address>Dar es Salaam, Tanzania</address>
+                    <address>Appointment Only, <br>Dar es Salaam, Tanzania.</address>
                 </div>
                 <div class="col-md-4">
-                    <address>+255 656 791 558<br>+255 766 130 227</address>
+                    <address>
+                        <a href="tel:+255 656 791 558">+255 656 791 558</a>
+                        <br>
+                        <a href="tel:+255 766 130 227">+255 766 130 227</a>
+                    </address>
                 </div>
                 <div class="col-md-3">
-                    <address><a href="mailto:hello@emanate.software">hello@emanate.software</a></address>
+                    <address>
+                        <a href="mailto:hello@emanate.software">hello@emanate.software</a>
+                    </address>
                 </div>
             </div>
         </div>

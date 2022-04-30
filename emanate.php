@@ -11,11 +11,11 @@
 <header class="page-header">
     <?php include 'inc/aside.php' ?>
     <div class="video-bg">
-       <img src="images/nmb-mkononi.jpg" alt="Emanate Software">
+       <img src="images/emanate.jpg" alt="Emanate Software">
     </div>
     <div class="container">
         <h1>Emanate</h1>
-        <p class="text-white">SOFTWARE DEVELOPERS & CONSULTANTS BASED IN DAR ES SALAAM, TANZANIA.</p>
+        <p>SOFTWARE DEVELOPERS & CONSULTANTS BASED IN DAR ES SALAAM, TANZANIA.</p>
     </div>
 </header>
 
@@ -29,28 +29,28 @@
                 <h2 data-text="Steps">Working Process</h2>
             </div>
             <div class="col-md-3 wow fadeIn" data-wow-delay="0.05s"><span>01</span>
-                <figure><img src="images/icon02.jpg" alt="Emanate Software">
+                <figure>
                     <figcaption>
                         <h5>PROTOTYPE DESIGNING</h5>
                     </figcaption>
                 </figure>
             </div>
             <div class="col-md-3 wow fadeIn" data-wow-delay="0.10s"><span>02</span>
-                <figure><img src="images/icon03.jpg" alt="Emanate Software">
+                <figure>
                     <figcaption>
                         <h5>DEVELOPMENT / CODING</h5>
                     </figcaption>
                 </figure>
             </div>
             <div class="col-md-3 wow fadeIn" data-wow-delay="0.15s"><span>03</span>
-                <figure><img src="images/icon04.jpg" alt="Emanate Software">
+                <figure>
                     <figcaption>
                         <h5>LUNCHING THE PROJECT</h5>
                     </figcaption>
                 </figure>
             </div>
             <div class="col-md-3 wow fadeIn" data-wow-delay="0.15s"><span>04</span>
-                <figure><img src="images/icon04.jpg" alt="Emanate Software">
+                <figure>
                     <figcaption>
                         <h5>MAINTENANCE / SUPPORT</h5>
                     </figcaption>
@@ -69,7 +69,7 @@
             </div>
             <div class="col-lg-3 col-md-6 wow fadeIn">
                 <figure>
-                    <img src="images/team.jpg" alt="Emanate Software">
+                    <img src="images/james.jpg" alt="Emanate Software">
                     <figcaption>
                         <small>Lead Developer & Consultant</small>
                         <h4>James E. Msenga</h4>
@@ -79,7 +79,7 @@
 
             <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.05s">
                 <figure>
-                    <img src="images/team.jpg" alt="Emanate Software">
+                    <img src="images/calvin.jpg" alt="Emanate Software">
                     <figcaption>
                         <small>Back-end Developer</small>
                         <h4>Calvin J. Nnko</h4>
@@ -89,7 +89,7 @@
 
             <div class="col-lg-3 col-md-6 wow fadeIn" data-wow-delay="0.10s">
                 <figure>
-                    <img src="images/team.jpg" alt="Emanate Software">
+                    <img src="images/siima.jpg" alt="Emanate Software">
                     <figcaption>
                         <small>Front-end Developer (Intern)</small>
                         <h4>Siima S. Julius</h4>
@@ -109,7 +109,7 @@
                 <h4>We collaborate with companies: from small to large, helping them engage their audiences and build
                     exciting projects.</h4>
                 <div class="custom-link wow fadeIn">
-                    <a href="#">
+                    <a href="hello.php">
                         <div class="lines">
                             <span></span> <span></span>
                         </div>
