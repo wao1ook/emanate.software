@@ -1,16 +1,14 @@
 <?php
-$to = "amigohmccclurkin98@gmail.com";
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require __DIR__ . '/vendor/autoload.php';
+
 $from = $_REQUEST['email'];
 $name = $_REQUEST['first_name'] . ' ' . $_REQUEST['last_name'];
 $subject = $_REQUEST['subject'];
 $message = $_REQUEST['message'];
-//$headers = "From: $from";
-
-//$fields = array();
-//$fields["name"] = "Name";
-//$fields["email"] = "E-mail";
-//$fields["subject"] = "Subject";
-//$fields["message"] = "Message";
 
 $body = '
 <html lang="en">
@@ -22,14 +20,17 @@ $body = '
   <table>
     <tr>
       <td>Name</td>
+      <td></td>
 	 <td>' . $name . '</td>
     </tr>
      <tr>
       <td>Subject</td>
+      <td></td>
 	 <td>' . $subject . '</td>
     </tr> 
     <tr>
       <td>Message</td>
+      <td></td>
 	 <td>' . $message . '</td>
     </tr>
   </table>
@@ -37,31 +38,49 @@ $body = '
 </html>
 ';
 
-//$body = "Here is the message from Emanate Software:\n\n";
-//foreach ($fields as $a => $b) {
-//    $body .= sprintf("%20s: %s\n", $b, $_REQUEST[$a]);
-//}
+$mail = new PHPMailer(TRUE);
 
-$send = sendHtmlMail(toAddress: $to, subject: $subject, fromMail: $from, mailMessage: $body);
+try {
+    /* Set the mail sender. */
+    $mail->setFrom($from, $name);
 
-if (!$send) {
-    print_r(false);
-    $errorMessage = error_get_last()['message'];
-}
+    /* Add a recipient. */
+    $mail->addAddress('hello@jamesemanuel.me', 'James Emanuel');
 
-function sendHtmlMail(
-    string $toAddress,
-    string $subject,
-    string $fromMail,
-    string $mailMessage,
-): bool {
+    /* Set the subject. */
+    $mail->Subject = $subject;
 
-    $to        = $toAddress;
-    $headers[] = 'MIME-Version: 1.0';
-    $headers[] = 'Content-type: text/html; charset=iso-8859-1';
-    $headers[] = 'Content-Transfer-Encoding: base64';
-    $headers[] = 'To: '.$to;
-    $headers[] = 'From: '.$fromMail;
+    /* check if body is html, then set body property */
+    $mail->isHTML(TRUE);
+    $mail->Body = $body;
 
-    return mail($to, $subject, $mailMessage, implode("\r\n", $headers));
+    /* Tells PHPMailer to use SMTP. */
+    $mail->isSMTP();
+
+    /* SMTP server address. */
+    $mail->Host = 'smtp-relay.sendinblue.com';
+    /* Use SMTP authentication. */
+    $mail->SMTPAuth = TRUE;
+
+    /* Set the encryption system. */
+    $mail->SMTPSecure = 'tls';
+
+    /* SMTP authentication username. */
+    $mail->Username = 'jamesemanuel99@gmail.com';
+
+    /* SMTP authentication password. */
+    $mail->Password = 'AgJ74LZS5k1D0xIh';
+
+    /* Set the SMTP port. */
+    $mail->Port = 587;
+
+    /* Enable SMTP debug output. 0 - no output is generated, 4 - low level info is generated */
+    $mail->SMTPDebug = 4;
+
+    /* Finally send the mail. */
+    $mail->send();
+} catch (Exception $e) {
+    echo $e->errorMessage();
+} catch (\Exception $e) {
+    echo $e->getMessage();
 }
