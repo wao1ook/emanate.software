@@ -100,7 +100,7 @@
     </div>
 </section>
 
-<section class="clients">
+<section class="clients" id="clients">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 wow fadeIn">

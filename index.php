@@ -38,7 +38,7 @@
 
 <?php include 'inc/about-us.php' ?>
 
-<section class="services-content-block">
+<section class="services-content-block" id="services">
     <div class="video-bg">
         <img src="images/hello.jpg" alt="Emanate Software">
     </div>

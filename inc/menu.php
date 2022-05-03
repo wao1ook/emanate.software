@@ -9,9 +9,9 @@
         <div class="menu">
             <ul>
                 <li><a href="../emanate.php">Who are we?</a></li>
-                <li><a href="#">What do we offer?</a></li>
+                <li><a href="/index.php#services">What do we offer?</a></li>
                 <li><a href="../works.php">Our Works</a></li>
-                <li><a href="#">Whom we worked with?</a></li>
+                <li><a href="/emanate.php#clients">Whom we worked with?</a></li>
             </ul>
         </div>
         <blockquote>Let's turn your idea into a reality</blockquote>
