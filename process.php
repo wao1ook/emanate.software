@@ -45,7 +45,7 @@ try {
     $mail->setFrom($from, $name);
 
     /* Add a recipient. */
-    $mail->addAddress('hello@jamesemanuel.me', 'James Emanuel');
+    $mail->addAddress('hello@emanate.software', 'Emanate Software');
 
     /* Set the subject. */
     $mail->Subject = $subject;
