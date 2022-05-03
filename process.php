@@ -16,20 +16,20 @@ $body = '
   <title>Emanate Software</title>
 </head>
 <body>
-  <h1>Here is the message from Emanate Software!</h1>
+  <h3>Email from Emanate Software Website.</h3>
   <table>
     <tr>
-      <td>Name</td>
+      <td>Full Name :</td>
       <td></td>
 	 <td>' . $name . '</td>
     </tr>
      <tr>
-      <td>Subject</td>
+      <td>Subject :</td>
       <td></td>
 	 <td>' . $subject . '</td>
     </tr> 
     <tr>
-      <td>Message</td>
+      <td>Message :</td>
       <td></td>
 	 <td>' . $message . '</td>
     </tr>
@@ -77,7 +77,7 @@ try {
     /* Enable SMTP debug output. 0 - no output is generated, 4 - low level info is generated */
     $mail->SMTPDebug = 4;
 
-    /* Finally send the mail. */
+    /* Finally, send the mail. */
     $mail->send();
 } catch (Exception $e) {
     echo $e->errorMessage();
