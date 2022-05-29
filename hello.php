@@ -29,17 +29,13 @@
             <div class="col-md-4 wow fadeIn">
                 <address>
                     <b>Address</b>
-                    <p>Appointment Only, <br> Dar es Salaam, Tanzania</p>
+                    <p>Call or email us for an appointment</p>
                 </address>
             </div>
             <div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
                 <address>
                     <b>Phone</b>
-                    <p>
-                        <a href="tel:+255656791558">+255 656 791 558</a>
-                        <br>
-                        <a href="tel:+255766130227">+255 766 130 227</a>
-                    </p>
+                    <p> <a href="tel:+255656791558">+255 656 791 558</a> </p>
                 </address>
             </div>
             <div class="col-md-4 wow fadeIn" data-wow-delay="0.10s">

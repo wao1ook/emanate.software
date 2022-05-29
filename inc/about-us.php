@@ -16,15 +16,15 @@
                 <p>
                     From beautiful and engaging <strong>Websites</strong>, <strong>Web Applications / Portals</strong>
                     to <strong> Consultations</strong> we are honored to work with SME's to Big Organizations. For them,
-                    we offer individual solutions that fit specific tasks and goals whether is to reach their targeted
+                    we tailor made individual solutions that fit specific tasks and goals whether is to reach their targeted
                     audiences or simplify their daily business operations.</p>
                 <div class="custom-link wow fadeIn">
-                    <a href="../works.php">
+                    <a href="../about-us.php">
                         <div class="lines">
                             <span></span>
                             <span></span>
                         </div>
-                        <b>VIEW WORKS</b>
+                        <b>CONTACT US</b>
                     </a>
                 </div>
             </div>

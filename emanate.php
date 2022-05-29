@@ -21,6 +21,12 @@
 
 <?php include 'inc/about-us.php' ?>
 
+<!-- TrustBox widget - Micro Review Count -->
+<div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="62208cf386b634270551d5c3" data-style-height="24px" data-style-width="100%" data-theme="light" data-min-review-count="10" data-without-reviews-preferred-string-id="1">
+  <a href="https://www.trustpilot.com/review/emanate.software" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+
 <section class="process">
     <div class="container">
         <div class="row no-gutters">
@@ -120,14 +126,14 @@
 
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.10s">
                 <ul>
-                    <li><img src="images/logo01.png" alt="Emanate Software"><small>AUTHENTIC MOTORS</small></li>
-                    <li><img src="images/jjacl.jpg" alt="Emanate Software"><small>J&J AGRICULTURAL</small></li>
+                    <li><img src="images/authenitc-motors.jpg" alt="Emanate Software"><small>AUTHENTIC MOTORS</small></li>
+                    <li><img src="images/jjacl.jpg" alt="Emanate Software"><small>J & J AGRICULTURAL</small></li>
                     <li><img src="images/heyz.png" alt="Emanate Software"><small>HEY'Z INVESTMENT</small></li>
                     <li><img src="images/favour.jpg" alt="Emanate Software"><small>FAVOUR</small></li>
                     <li><img src="images/bwana-alizeti@3x.jpg" alt="Emanate Software"><small>BWANA ALIZETI</small></li>
                     <li><img src="images/trendy-media@3x.jpg" alt="Emanate Software"><small>TRENDY MEDIA</small></li>
                     <li><img src="images/taned.jpg" alt="Emanate Software"><small>TANED</small></li>
-                    <li><img src="images/prosX.jpg" alt="Emanate Software"><small>PROSX</small></li>
+                    <li><img src="images/prosX.jpg" alt="Emanate Software"><small>PROS COMPANY LTD</small></li>
                 </ul>
             </div>
         </div>

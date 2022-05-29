@@ -61,50 +61,8 @@
 
             <div class="col-12 wow fadeIn">
                 <figure>
-                    <a href="images/works-single01.jpg" data-fancybox>
-                        <img src="images/works-single01.jpg" alt="Emanate Software">
-                    </a>
-                </figure>
-            </div>
-            <div class="col-md-6 wow fadeIn">
-                <figure>
-                    <a href="images/featured01.jpg" data-fancybox>
-                        <img src="images/featured01.jpg" alt="Emanate Software">
-                    </a>
-                </figure>
-            </div>
-            <div class="col-md-6 wow fadeIn">
-                <figure>
-                    <a href="images/featured02.jpg" data-fancybox>
-                        <img src="images/featured02.jpg" alt="Emanate Software">
-                    </a>
-                </figure>
-            </div>
-            <div class="col-12 wow fadeIn">
-                <figure>
-                    <a href="images/works-single02.jpg" data-fancybox>
-                        <img src="images/works-single02.jpg" alt="Emanate Software">
-                    </a>
-                </figure>
-            </div>
-            <div class="col-md-4 wow fadeIn">
-                <figure>
-                    <a href="images/works04.jpg" data-fancybox>
-                        <img src="images/works04.jpg" alt="Emanate Software">
-                    </a>
-                </figure>
-            </div>
-            <div class="col-md-4 wow fadeIn">
-                <figure>
-                    <a href="images/works05.jpg" data-fancybox>
-                        <img src="images/works05.jpg" alt="Emanate Software">
-                    </a>
-                </figure>
-            </div>
-            <div class="col-md-4 wow fadeIn">
-                <figure>
-                    <a href="images/works06.jpg" data-fancybox>
-                        <img src="images/works06.jpg" alt="Emanate Software">
+                    <a href="images/betheli-dashboard.png" data-fancybox>
+                        <img src="images/betheli-dashboard.png" alt="Emanate Software">
                     </a>
                 </figure>
             </div>
