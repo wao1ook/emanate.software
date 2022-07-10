@@ -4,18 +4,19 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="theme-color" content="#e8293b"/>
     <meta name="HandheldFriendly" content="true"/>
-    <title>Emanate Software | Refactoring the Future</title>
-    <meta name="author" content="Emanate">
-    <meta name="description" content="Emanate | Refactoring the Future">
+    <title>Emanate Software | Software Developer based in Dar es Salaam, Tanzania.</title>
+    <meta name="author" content="Emanate Software">
+    <meta name="description"
+          content="Emanate Software is a team of software developers crafting beautiful and engaging websites, web applications, portals and for SME's to Big Organizations.">
     <meta name="keywords"
-          content="creative, works, showcase, portfolio, highlight, projects, modern, agency, digital, studio, css, animation, transition, freelancers">
+          content="software developers,website developers,system developers, ecommerce, domain names, website hosting, system hosting, hosting, servers,bulk sms, tanzania, dar ees salaam, freelancers">
 
     <!-- SOCIAL MEDIA META -->
     <meta property="og:description"
-          content="Emanate Software | Software Development team based in Dar es Salaam, Tanzania.">
+          content="Emanate Software is a team of software developers crafting beautiful and engaging websites, web applications, portals and for SME's to Big Organizations.">
     <meta property="og:image" content="https://www.emanate.software">
-    <meta property="og:site_name" content="emanate">
-    <meta property="og:title" content="emanate">
+    <meta property="og:site_name" content="Emanate Software">
+    <meta property="og:title" content="Refactoring the Future">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.emanate.software">
 
@@ -25,7 +26,7 @@
     <meta name="twitter:creator" content="@emanate">
     <meta name="twitter:title" content="emanate">
     <meta name="twitter:description"
-          content="Emanate Software | Software Development team based in Dar es Salaam, Tanzania.">
+          content="Emanate Software is a team of software developers crafting beautiful and engaging websites, web applications, portals and for SME's to Big Organizations.">
     <meta name="twitter:image" content="https://www.emanate.software">
 
     <!-- FAVICON FILES -->
