@@ -22,9 +22,12 @@
                 <span>Software</span></h1>
             <div class="slide-btn"><a href="emanate.php">
                     <div class="lines"><span></span> <span></span></div>
-                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                         viewBox="0 0 104 104" enable-background="new 0 0 104 104" xml:space="preserve"> <circle class="video-play-circle" fill="none" stroke="#fff" stroke-width="2" stroke-miterlimit="1"
-                        cx="52" cy="52" r="50"/> </svg>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                         x="0px" y="0px"
+                         viewBox="0 0 104 104" enable-background="new 0 0 104 104" xml:space="preserve"> <circle
+                                class="video-play-circle" fill="none" stroke="#fff" stroke-width="2"
+                                stroke-miterlimit="1"
+                                cx="52" cy="52" r="50"/> </svg>
                     <b>ABOUT US</b>
                 </a>
             </div>
