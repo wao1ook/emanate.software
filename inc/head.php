@@ -7,19 +7,19 @@
     <title>Emanate Software | Software Developer based in Dar es Salaam, Tanzania.</title>
     <meta name="author" content="Emanate Software">
     <meta name="description"
-          content="Emanate Software is a team of software architectures crafting beautiful and engaging solutions for Individuals, SME's to Big Organizations.">
+          content="A team of software developers and IT consultants crafting beautiful and engaging solutions for small start-up businesses to recognizable organizations.">
     <meta name="keywords"
           content="software developers,website developers,system developers, ecommerce, domain names, website hosting, system hosting, hosting, servers,bulk sms, tanzania, dar ees salaam, freelancers">
 
     <!-- SOCIAL MEDIA META -->
     <meta property="og:description"
-          content="Emanate Software is a team of software architectures crafting beautiful and engaging solutions for Individuals, SME's to Big Organizations.">
+          content="A team of software developers and IT consultants crafting beautiful and engaging solutions for small start-up businesses to recognizable organizations.">
     <meta property="og:site_name" content="Emanate Software">
     <meta property="og:title" content="Refactoring the Future">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.emanate.software">
-    <meta property="og:image" content="https://www.emanate.software/images/link.jpg"/>
-    <meta property="og:image:secure_url" content="https://www.emanate.software/images/link.jpg"/>
+    <meta property="og:image" content="https://www.emanate.software/images/hello.jpg"/>
+    <meta property="og:image:secure_url" content="https://www.emanate.software/images/hello.jpg"/>
     <meta property="og:image:width" content="1200"/>
     <meta property="og:image:height" content="627"/>
 
@@ -29,8 +29,8 @@
     <meta name="twitter:creator" content="@emanate">
     <meta name="twitter:title" content="emanate">
     <meta name="twitter:description"
-          content="Emanate Software is a team of software architectures crafting beautiful and engaging solutions for Individuals, SME's to Big Organizations.">
-    <meta name="twitter:image" content="https://www.emanate.software/images/link.jpg">
+          content="A team of software developers and IT consultants crafting beautiful and engaging solutions for small start-up businesses to recognizable organizations.">
+    <meta name="twitter:image" content="https://www.emanate.software/images/hello.jpg">
 
     <!-- FAVICON FILES -->
     <link href="../ico/favicon.png" rel="shortcut icon">
