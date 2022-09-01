@@ -51,13 +51,8 @@
                 <div class="content-box">
                     <div class="left"><small>01</small><span></span></div>
                     <div class="right">
-                        <h4 class="text-uppercase">Website Designing & Development</h4>
-                        <ul>
-                            <li>Web Applications</li>
-                            <li>Software as a Service (Saas)</li>
-                            <li>Code Audits</li>
-                            <li>API Design & Integration</li>
-                        </ul>
+                        <h4 class="text-uppercase">System Designing & Development</h4>
+                        <p>Our team develops software that is easy to use, maintain and scalable.</p>
                     </div>
                 </div>
             </div>
@@ -66,12 +61,8 @@
                 <div class="content-box">
                     <div class="left"><small>02</small><span></span></div>
                     <div class="right">
-                        <h4 class="text-uppercase">Web Apps & Portals Development</h4>
-                        <ul>
-                            <li>DevOps Services</li>
-                            <li>Hosting Consultancy, Implementation And Support</li>
-                            <li>Application Maintenance</li>
-                        </ul>
+                        <h4 class="text-uppercase">UI/UX Designing</h4>
+                        <p>We transforms visions into reality for the development of a successful business.</p>
                     </div>
                 </div>
             </div>
@@ -80,12 +71,10 @@
                 <div class="content-box">
                     <div class="left"><small>03</small><span></span></div>
                     <div class="right">
-                        <h4 class="text-uppercase">Consultation</h4>
-                        <ul>
-                            <li>Software Design & Architecture</li>
-                            <li>Technical Solution Evaluation</li>
-                            <li>Development Process Consulting</li>
-                        </ul>
+                        <h4 class="text-uppercase">IT Consultation</h4>
+                        <p>
+                            We provide effective IT strategies and consultants for your business.
+                        </p>
                     </div>
                 </div>
             </div>
