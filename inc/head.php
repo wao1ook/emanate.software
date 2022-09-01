@@ -4,7 +4,7 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="theme-color" content="#e8293b"/>
     <meta name="HandheldFriendly" content="true"/>
-    <title>Emanate Software | Software Developer based in Dar es Salaam, Tanzania.</title>
+    <title>Emanate Software | Refactoring the Future</title>
     <meta name="author" content="Emanate Software">
     <meta name="description"
           content="A team of software developers and IT consultants crafting beautiful and engaging solutions for small start-up businesses to recognizable organizations.">
