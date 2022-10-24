@@ -9,7 +9,6 @@
         <div class="menu">
             <ul>
                 <li><a href="../emanate.php">Who are we?</a></li>
-                <li><a href="../hello.php">Get in touch</a></li>
             </ul>
         </div>
         <blockquote>Let's turn your idea into a reality</blockquote>
