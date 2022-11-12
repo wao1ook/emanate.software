@@ -19,10 +19,11 @@
                 <div class="col-md-4 wow fadeIn" data-wow-delay="0.05s">
                     <address>
                         <a>Phone number</a> <br>
-                        <a href="tel:+255 656 791 558">+255 656 791 558</a>
+                        <a href="tel:+255 656 791 558">+255 656 791 558</a> /
+                        <a href="tel:+255766130227">766 130 227</a>
                     </address>
                 </div>
-                <div class="col-md-3 wow fadeIn" data-wow-delay="0.10s">
+                <div class="col-md-4 wow fadeIn" data-wow-delay="0.10s">
                     <address>
                         <a>Email address</a>
                         <a href="mailto:hello@emanate.software">hello@emanate.software</a>
