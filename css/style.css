@@ -2709,8 +2709,8 @@ a:hover .service-item-title {
 
 @media (min-width: 768px) {
   .partner-item {
-    flex: 0 0 20%;
-    max-width: 20%;
+    flex: 0 0 33.3333333%;
+    max-width: 33.3333333%;
   }
 }
 
