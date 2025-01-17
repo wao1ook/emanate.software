@@ -1,0 +1,13 @@
+{
+  "name": "Emanate Software",
+  "short_name": "Emanate",
+  "description": "Custom web solutions tailored to your business needs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["business", "productivity", "technology"],
+  "lang": "en-US"
+}

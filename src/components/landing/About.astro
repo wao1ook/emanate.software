@@ -1,0 +1,182 @@
+---
+import Text from "../fundations/elements/Text.astro";
+import StarBottomLeft from "../assets/StarBottomLeft.astro";
+import StarBottomRight from "../assets/StarBottomRight.astro";
+import StarTopLeft from "../assets/StarTopLeft.astro";
+import StarTopRight from "../assets/StarTopRight.astro";
+const target = [
+  {
+    item: "... to digitize your business",
+  },
+  {
+    item: "... require a tailor made solution",
+  },
+  {
+    item: "... improve data management",
+  },
+  {
+    item: "... scale your business efficiently",
+  },
+  {
+    item: "... require better reporting and analytics",
+  },
+  {
+    item: "... require a secure and reliable platform",
+  },
+  {
+    item: "... have unique specification",
+  },
+];
+
+const listItems = [
+  "Retail, Wholesale & Service Module",
+  "Real Estate & Rental Module",
+  "Manufacturing Module",
+  "Accounting Module",
+  "Parcel Transportation Module",
+  "Project Managment Module",
+];
+---
+
+<div
+  class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 relative border border-dashed border-zinc-300 dark:border-zinc-700"
+>
+  <StarTopLeft />
+  <StarTopRight />
+  <StarBottomLeft />
+  <StarBottomRight />
+  <div
+    class="gap-8 p-8 flex flex-col justify-between h-full text-black dark:text-white relative lg:border-r border-zinc-300 dark:border-zinc-700 lg:col-span-2"
+  >
+
+    <div class="flex flex-col justify-between relative">
+      <Text
+        tag="p"
+        variant="textBase"
+        class="tracking-tight text-black dark:text-white relative"
+      >
+      Do you need any of the following?
+      </Text>
+      <ul
+        class="grid grid-cols-1 2xl:text-base mt-4 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-2 gap-2 md:col-span-2 relative"
+      >
+        {
+          target.map(({ item }) => (
+            <li>
+              <div class="flex gap-2 items-center text-zinc-500 dark:text-zinc-400">
+                <div class=" ring-1 ring-zinc-200 dark:ring-zinc-700 p-[0.110rem] bg-white/5 shadow  rounded-sm ">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="3"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    class="icon icon-tabler icons-tabler-outline icon-tabler-check size-2.5"
+                  >
+                    <>
+                      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                      <path d="M5 12l5 5l10 -10" />
+                    </>
+                  </svg>
+                </div>
+                {item}
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+      <div class="pt-8">
+        <Text
+          tag="h3"
+          variant="displaySM"
+          class="font-serif italic text-black dark:text-white"
+        >
+        We've got you covered!
+        </Text>
+        <Text tag="p" variant="textBase" class="text-zinc-500 dark:text-zinc-400 pt-4">
+                Whether you are an individual, a small startup, or an established corporation, if any of these challenges resonate with you, it’s time to take the next step in transforming your business. We specialize in developing custom web applications designed to help you achieve your goals, streamline operations, and drive growth. Let’s collaborate to digitize and optimize your business for lasting success.
+        </Text>
+      </div>
+    </div>
+    <div class="mt-2">
+      <Text tag="p" variant="textSM" class="text-zinc-500 dark:text-zinc-400">
+        Request our portifolio at
+        <Text
+          tag="a"
+          class="underline hover:text-black dark:text-white duration-200"
+          href="mailto:hello@emanate.software">email</Text
+        >
+      </Text>
+    </div>
+  </div>
+  <div
+    class="flex flex-col h-full justify-between p-8 overflow-hidden relative bg-white/30 dark:bg-white/5"
+  >
+    <div class="relative">
+      <div class="flex flex-col">
+        <Text
+          tag="h3"
+          variant="displaySM"
+          class="font-serif italic tracking-wide text-black dark:text-white"
+        >
+        Kipepeo BMS
+        </Text>
+      </div>
+      <Text tag="p" variant="textBase" class="text-black dark:text-white">
+
+        <Text
+          tag="span"
+          variant="textSM"
+          class="text-zinc-700 dark:text-zinc-400"> Our in house product</Text
+        >
+      </Text>
+      <div class="mt-8">
+        <Text
+          tag="p"
+          variant="textSM"
+          class="text-black dark:text-white font-medium uppercase"
+        >
+        Tailor Made Modules
+        </Text>
+        <ul
+          class="flex flex-col mt-2 list-none list-inside text-zinc-700 dark:text-zinc-400 gap-y-2"
+          role="list"
+        >
+          {
+            listItems.map((item) => (
+              <li class="flex gap-2 items-center 2xl:items-start">
+                <Text tag="p" variant="textSM" class="2xl:text.base">
+                  <Text tag="span">—</Text>
+                  <Text tag="span">{item}</Text>
+                </Text>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <div class="flex mt-4 justify-center relative w-full">
+        <Text
+          tag="a"
+          variant="textBase"
+          href="https://kipepeo.online"
+          class="flex h-12 items-center font-medium justify-center w-full duration-500 ring-1 dark:bg-white dark:text-black bg-black ring-inset ring-black hover:ring-zinc-700 text-white dark:hover:ring-zinc-700 dark:hover:bg-white/10 dark:hover:text-white"
+        >
+        Read More
+        </Text>
+      </div>
+      <Text tag="p" variant="textXS" class="text-black dark:text-white mt-4">
+        Do you need or want to know more?
+        <Text
+          tag="a"
+          href="tel:+255656791558"
+          class="text-black dark:text-white duration-500 block"
+        >
+          — Book a 15 min call
+          <span>»</span>
+        </Text>
+      </Text>
+    </div>
+  </div>
+</div>

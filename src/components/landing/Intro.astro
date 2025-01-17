@@ -1,0 +1,60 @@
+---
+import Text from "@/components/fundations/elements/Text.astro";
+---
+
+<div class="flex flex-col gap-12">
+  <div
+    class="flex flex-col lg:flex-row border p-8 border-dashed border-zinc-300 dark:border-zinc-700"
+  >
+    <div>
+      <div class="flex items-center gap-2 text-black dark:text-white">
+        <div class="size-2 rounded-lg bg-green-500 animate-pulse"></div>
+        <Text
+          tag="p"
+          variant="textSM"
+          class="text-black dark:text-white typing-animation"
+          data-text="Available — Appointment Only."
+        >
+          <span class="typed-text"></span><span class="cursor">&nbsp;</span>
+        </Text>
+      </div>
+      <Text
+        tag="h1"
+        variant="displayLG"
+        class="text-black dark:text-white tracking-wide text-balance font-serif italic"
+      >
+      Emanate Software - Digital Solutions for all.
+      </Text>
+      <Text
+        variant="textSM"
+        class="text-zinc-500 dark:text-zinc-400 mt-4 text-pretty"
+      >
+      Our goal is to provide you with personalized services that align with the unique needs.
+      </Text>
+    </div>
+  </div>
+</div>
+
+
+<script type="module">
+  document.addEventListener("DOMContentLoaded", () => {
+    const elements = document.querySelectorAll(".typing-animation");
+
+    elements.forEach((element) => {
+      const text = element.dataset.text;
+      const typedTextSpan = element.querySelector(".typed-text");
+      const cursorSpan = element.querySelector(".cursor");
+      const typingSpeed = 100;
+
+      const typeText = (index = 0) => {
+        if (index <= text.length) {
+          typedTextSpan.textContent = text.substring(0, index);
+          setTimeout(() => typeText(index + 1), typingSpeed);
+        }
+      };
+
+      // Start the typing animation
+      setTimeout(() => typeText(), 1500);
+    });
+  });
+</script>
