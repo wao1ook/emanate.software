@@ -57,9 +57,7 @@ const listItems = [
       >
       Do you need any of the following?
       </Text>
-      <ul
-        class="grid grid-cols-1 2xl:text-base mt-4 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-2 gap-2 md:col-span-2 relative"
-      >
+      <ul class="grid grid-cols-1 2xl:text-base mt-4 sm:grid-cols-2 md:grid-cols-1 lg:grid-cols-2 gap-2 md:col-span-2 relative">
         {
           target.map(({ item }) => (
             <li>
@@ -95,18 +93,24 @@ const listItems = [
         >
         We've got you covered!
         </Text>
-        <Text tag="p" variant="textBase" class="text-zinc-500 dark:text-zinc-400 pt-4">
+        <Text tag="p" variant="textBase" class="text-zinc-500 dark:text-zinc-400 pt-4 text-justify">
                 Whether you are an individual, a small startup, or an established corporation, if any of these challenges resonate with you, it’s time to take the next step in transforming your business. We specialize in developing custom web applications designed to help you achieve your goals, streamline operations, and drive growth. Let’s collaborate to digitize and optimize your business for lasting success.
         </Text>
       </div>
     </div>
     <div class="mt-2">
       <Text tag="p" variant="textSM" class="text-zinc-500 dark:text-zinc-400">
-        Request our portifolio at
+        Write to us at
         <Text
           tag="a"
           class="underline hover:text-black dark:text-white duration-200"
           href="mailto:hello@emanate.software">email</Text
+        >
+        or call via
+        <Text
+          tag="a"
+          class="underline hover:text-black dark:text-white duration-200"
+        href="+255656791558">phone</Text
         >
       </Text>
     </div>

@@ -1,1 +1,1 @@
-### Made with love by Emanate Software
+### Made with ❤️ by Emanate Software
